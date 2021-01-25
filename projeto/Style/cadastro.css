@@ -1,0 +1,177 @@
+body {
+    padding: 20px;
+    margin-top: 0px;
+    background-color: whitesmoke;
+}
+ 
+#mae
+{
+    width: 1000px;
+    height: 1150px;
+    border: 4px;
+    border-style:solid;
+    border-color: #243B0B;
+    text-align: center;
+    font-family: arial;
+    background-color:white; 
+    border-radius: 20px 20px 20px 20px;
+    margin-top: -20px;
+    padding-top: 0px;
+    
+    
+}
+
+#categoria 
+{
+    height: 50px;
+    width: 200px;
+    padding: 10px;
+    color: black;
+    margin-left: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+}
+
+#categoria:hover{
+    border-color: darkgreen;
+    box-shadow: 5px 0px 9px black;;
+    background-color:#81F781 ;
+    color: black;
+    font-weight: bold;
+}
+h1 {
+    margin-bottom: 5px;
+    margin-left: 8px;
+    color: #00FF00;
+  
+}
+
+#foto{
+         width: 300px;
+    padding: 10px;
+    color: black;
+    margin-left: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+}
+ 
+input, textarea {
+    width: 200px;
+    padding: 10px;
+    color: black;
+    margin-left: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+}
+ 
+input:hover, input:focus, textarea:focus {
+    border-color: darkgreen;
+    background-color:#C2E5B9 ;
+    color: black;
+    font-weight: bold;
+}
+ 
+.submit input {
+    background-color: #C2E5B9;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+    color: black;
+}
+ 
+
+ 
+form label {
+    margin-left: 20px;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 10px;
+}
+
+form {
+    font-family: Verdana,Tahoma,sans-serif;
+    font-size: 15px;
+    top: 10px;
+    background-color: #FFFAFA;
+    max-width: 480px;
+    height: 48;
+    border: solid;
+    border-color: #C2E5B9;
+     border-radius: 20px 20px 20px 20px;
+}
+
+form label{
+    float: left;
+    padding-left: 10px;
+}
+form input{
+   align-content: right;
+    box-shadow: none;
+}
+.btncomum
+{
+    padding-left: 40px;
+    float: left;
+}
+
+
+.btncomum:hover{
+	color: white;
+	border-radius: 10px 10px 10px 10px;
+}
+
+#rodape{
+	background-color: #243B0B;
+	width: 992px;
+	height: 196px;
+    padding: 5px;
+	float: right;
+    color: aliceblue;
+    margin-top: 30px;
+}
+
+.navbar .nav > li.dropdown.open.active > a:hover, 
+.navbar .nav > li.dropdown.open > a
+{
+   color: #fff;
+   border-color: #fff;
+}
+
+.lead{
+    font-family: verdana;
+    padding: 100px;
+}
+
+
+.container{
+height: 80px;
+width: 150px;
+}
+
+.container2
+{
+height: 50px;
+    padding-left: 200px;
+    background-color: #243B0B;
+    color: aliceblue
+}
+
+.fundolog {
+    height: 795px;
+    width: 989px;
+    background-color: white;
+}
+
+.dropdown{
+    padding-left: 40px;
+    border-color: aqua;
+}
+

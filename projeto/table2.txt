@@ -1,0 +1,8 @@
+ <p class="submit">
+        
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <input type="reset"value="Limpar" />
+       &nbsp;&nbsp; &nbsp;&nbsp;
+       <input type="submit" onclick="Enviar();" id="enviar" value="Enviar" />
+        </p>

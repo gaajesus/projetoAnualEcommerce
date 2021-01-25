@@ -1,0 +1,72 @@
+/*arquivo css*/
+
+h1 {text-align: left;font-family: monospace;animation:  font-size: 25px; font-style: bold;}
+
+p {text-align: left; font-family: monospace;font-size: 20px;}
+
+body {background-color: darkseagreen;
+font-family: verdana;}
+
+.botao_envio:hover{
+	
+	background-color: #92dea7;
+
+}s
+
+.botao_envio
+{ 
+    background-color: aliceblue;
+    border-style: outset;
+    border-color: dimgray;
+    border-width: medium;
+    width: 90px;
+    height: 30px;
+    overflow: hidden;
+
+}
+
+.botao:hover{
+	
+	background-color: #92dea7;
+	/*border-radius: 10px 0px 10px 0px;*/
+}
+.botao
+{
+    background-color: white;
+    width: 190px;
+    height: 40px;
+    overflow: hidden;
+
+}
+
+#mae {background-color: white;
+width:1000px;
+    height: 1000px;}
+
+#login {
+    
+    background-color: white;
+width:800px;
+    height: 800px;}
+
+
+#logomarca
+{
+    background-color: ;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 990px;
+    height: 130px;
+    text-align: left;
+
+}
+
+#fundo_login
+{
+    background-color: ;
+    width: 990px;
+    height: 800px;
+
+
+}
+

@@ -1,0 +1,30 @@
+a.sair{
+    color: white;
+}
+
+
+a.pdf:link {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+a.pdf:visited {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+a.pdf:hover {
+    color: black;
+    text-decoration: none;
+}
+
+a.pdf:active {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+#sidebar{
+    float: left;
+
+}
+

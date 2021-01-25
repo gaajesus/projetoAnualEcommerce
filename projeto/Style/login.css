@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+h3{
+    color: #81F781;font-weight: bolder
+}
+
+html,body{
+background-image: url("img/fundo2.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%
+font-family: 'Numans', sans-serif;
+    
+}
+
+#mae {
+width: 1000px;
+height: 1067px;
+border: 4px;
+border-style:solid;
+border-color: black;
+text-align: center;
+font-family: arial;
+background-color:white; 
+border-radius: 20px 20px 20px 20px;
+    
+} 
+
+.navbar .nav > li.dropdown.open.active > a:hover, 
+.navbar .nav > li.dropdown.open > a
+{
+   color: #fff;
+   background-color: #b91773;
+   border-color: #fff;
+}
+
+
+.lead{
+    font-family: verdana;
+    padding: 100px;
+}
+
+.container1{
+height: 80px;
+width: 850px;
+    background-color: aqua;
+
+}
+.container3{
+height: 717px;
+align-content: center;
+ margin-top: 5px;
+}
+
+.container
+{
+height: 60px;
+width: 1500px;
+background-color: transparent;
+}
+
+.fundolog
+{
+    height: 742px;
+    width: 989px;
+    background-color: white;
+}
+.imagem{
+    height: 100px;
+    width: 20px;
+}
+
+.btncomum
+{
+    padding-left: 40px;
+    float: left;
+}
+
+.btncomum:hover{
+	color: white;
+    text-align: center;
+}
+
+
+.card{
+height: 370px;
+margin-top: 160px;
+margin-left: 280px;
+width: 400px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.social_icon span{
+font-size: 60px;
+margin-left: 10px;
+color:#81F781;
+
+}
+.dropdown{
+    padding-left: 40px;
+    
+}
+
+.social_icon span:hover{
+color:#8c8c8c ;
+cursor: pointer;
+}
+
+.card-header h3{
+color: white;
+}
+
+.social_icon{
+position: absolute;
+right: 20px;
+top: -45px;
+}
+
+.input-group-prepend span{
+width: 50px;
+background-color:#81F781;
+color: black;
+border:0 !important;
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+    
+}
+
+.login_btn{
+color: black;
+background-color: #81F781;
+width: 100px;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px;
+color: #81F781;
+}
+
+
+#rodape{
+	background-color: #243B0B;
+	width: 992px;
+	height: 196px;
+    padding: 5px;
+	float: right;
+    color: aliceblue;
+}
+
+.login{
+    height: 90%;
+}
+
+.d-flex justify-content-left links{
+    text-align: center;
+}
+
+
+
+
+a.esqueci:link{
+    color:#81F781; 
+    text-decoration: none;}
+
+a.esqueci:visited{color:#81F781;
+    text-decoration: none;    }
+
+a.esqueci:hover{color:white;
+    text-decoration: none;}
+a.esqueci:active{color:white;
+    text-decoration: none;    }
